@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student in Computer Technology at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, jointly trained at Southern University of Science and Technology (SUSTech) with Prof. [Kejiang Ye] I received my bachelor's degree from Shandong University in 2023.
+I am a master's student in Computer Technology at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, jointly trained at Southern University of Science and Technology (SUSTech) with Prof. [Kejiang Ye](https://people.ucas.ac.cn/~kejiang). I received my bachelor's degree from Shandong University in 2023.
 
 My research focuses on **Cloud Computing**, **Operating Systems**, and **LLM Systems**. In the future, I will be working in the field of **AI Compilers**.
 
