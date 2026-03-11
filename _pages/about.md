@@ -46,5 +46,4 @@ My research focuses on **Cloud Computing**, **Operating Systems**, and **LLM Sys
 - *2019.09 - 2023.06*, B.Eng. in Software Engineering, School of Software, Shandong University, Jinan, China.
 
 # 💻 Internships
-- *2025.08 - Present*, [Alibaba Group](https://www.alibabagroup.com/), AIOS Team (Remote), China.
 - *2025.02 - 2025.08*, [Alibaba Group](https://www.alibabagroup.com/), AIOS Team, Hangzhou, China.
