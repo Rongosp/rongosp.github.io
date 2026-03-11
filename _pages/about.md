@@ -27,19 +27,19 @@ My research interests include **cloud computing**, **operating systems**, and **
 
 # 📝 Publications 
 
-- **Shuaipeng Wu**, Yuhan Lin, Shuai Peng, Wenhao Chen, Chi Ma, Minjia Shen, Liwen Chen, Chengzhong Xu, Kejiang Ye. ROCK: Serving Multimodal Model in Cloud with Heterogeneous-Aware Resource Orchestration for Thousands of LoRA Adapters. **IEEE CLUSTER 2025**
+- **Wu S**, Lin Y, Peng S, Chen W, Ma C, Shen M, Chen L, Xu C, Ye K. ROCK: Serving Multimodal Model in Cloud with Heterogeneous-Aware Resource Orchestration for Thousands of LoRA Adapters. **IEEE CLUSTER 2025**
 
-- Yuhan Lin, Shuai Peng, **Shuaipeng Wu**, Yuxuan Li, Chenhao Lu, Chengzhong Xu, Kejiang Ye. Serving LLM in Distributed GPU Cluster With Fine-Grain Pipeline Constraints. **IEEE Transactions on Services Computing (TSC)**, 2025
+- Lin Y, Peng S, **Wu S**, Li Y, Lu C, Xu C, Ye K. Serving LLM in Distributed GPU Cluster With Fine-Grain Pipeline Constraints. **IEEE Transactions on Services Computing (TSC)**, 2025
 
-- Yuhan Lin, **Shuaipeng Wu**, et al. Understanding Diffusion Model Serving in Production: A Top-Down Analysis of Workload, Scheduling, and Resource Efficiency. **ACM SoCC 2025**
+- Lin Y, **Wu S**, et al. Understanding Diffusion Model Serving in Production: A Top-Down Analysis of Workload, Scheduling, and Resource Efficiency. **ACM SoCC 2025**
 
-- Yuhan Lin, Shuai Peng, **Shuaipeng Wu**, Yuxuan Li, Chenhao Lu, Chengzhong Xu, Kejiang Ye. Planck: Optimizing LLM Inference Performance in Pipeline Parallelism with Fine-Grained SLO Constraint. **IEEE ICWS 2024**
+- Lin Y, Peng S, **Wu S**, Li Y, Lu C, Xu C, Ye K. Planck: Optimizing LLM Inference Performance in Pipeline Parallelism with Fine-Grained SLO Constraint. **IEEE ICWS 2024**
 
-- **Shuaipeng Wu**, Changqing Yuan, Kejiang Ye. A Multi-Stage Spike Stream Processing and Image Reconstruction Method for Industrial Applications. **IEEE TrustCom 2024**
+- **Wu S**, Yuan C, Ye K. A Multi-Stage Spike Stream Processing and Image Reconstruction Method for Industrial Applications. **IEEE TrustCom 2024**
 
-- Changqing Yuan, **Shuaipeng Wu**, Kejiang Ye. YOLO-Arc: An Improved Arc Detection Algorithm for Spike Camera Imaging in Industrial Scenes. **CEII 2024**
+- Yuan C, **Wu S**, Ye K. YOLO-Arc: An Improved Arc Detection Algorithm for Spike Camera Imaging in Industrial Scenes. **CEII 2024**
 
-- Jianguo Chen, Yuhan Lin, Shuai Peng, **Shuaipeng Wu**, Kent K, Haijun Dai, Kejiang Ye, Yong Wang. Understanding Serverless Inference in Mobile-Edge Networks: A Benchmark Approach. **IEEE Transactions on Cloud Computing (TCC)**, 2025
+- Chen J, Lin Y, Peng S, **Wu S**, Kent K, Dai H, Ye K, Wang Y. Understanding Serverless Inference in Mobile-Edge Networks: A Benchmark Approach. **IEEE Transactions on Cloud Computing (TCC)**, 2025
 
 # 📖 Educations
 - *2023.09 - 2026.06*, M.Eng. in Computer Technology, Southern University of Science and Technology - Shenzhen Institute of Advanced Technology (Joint Training Program), Shenzhen, China.
