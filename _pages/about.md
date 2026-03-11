@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the bachelor's degree from Shandong University, in 2023. I am currently working toward the master's degree with the Chinese Academy of Sciences with joint training at Southern University of Science and Technology.
+I am a master's student in Computer Technology at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, jointly trained at Southern University of Science and Technology (SUSTech) with Prof. [Kejiang Ye] I received my bachelor's degree from Shandong University in 2023.
 
-My research interests include **cloud computing**, **operating systems**, and **LLM systems**. In the future, I will be working in the field of **AI compilers**.
+My research focuses on **Cloud Computing**, **Operating Systems**, and **LLM Systems**. In the future, I will be working in the field of **AI Compilers**.
 
 
 # 🔥 News
